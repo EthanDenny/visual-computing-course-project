@@ -1,0 +1,12 @@
+data/11-23-2023_152732
+rle; {'name': 'Run-length encoding', 'run': True, 'args': {}}
+huffman; {'name': 'Huffman coding', 'run': True, 'args': {}}
+lz77; {'name': 'LZ77', 'run': True, 'args': {'buffer_length': 258, 'dictionary_length': 32768}}
+arithmetic; {'name': 'Arithmetic coding', 'run': False, 'args': {}}
+----------------------------------------
+data/11-23-2023_152834
+rle; {'name': 'Run-length encoding', 'run': True, 'args': {}}
+huffman; {'name': 'Huffman coding', 'run': True, 'args': {}}
+lz77; {'name': 'LZ77', 'run': True, 'args': {'buffer_length': 258, 'dictionary_length': 32768}}
+arithmetic; {'name': 'Arithmetic coding', 'run': False, 'args': {}}
+----------------------------------------

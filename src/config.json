@@ -1,0 +1,25 @@
+{
+    "rle": {
+        "name": "Run-length encoding",
+        "run": true,
+        "args": {}
+    },
+    "huffman": {
+        "name": "Huffman coding",
+        "run": true,
+        "args": {}
+    },
+    "lz77": {
+        "name": "LZ77",
+        "run": true,
+        "args": {
+            "buffer_length": 258,
+            "dictionary_length": 32768
+        }
+    },
+    "arithmetic": {
+        "name": "Arithmetic coding",
+        "run": false,
+        "args": {}
+    }
+}
