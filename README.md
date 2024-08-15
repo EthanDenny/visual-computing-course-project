@@ -64,7 +64,7 @@ pip install -r requirements.txt
 - Execute the following command: `python src/init.py`
 - The selected algorithms will be used to compress each of the images, with results including trimmed and untrimmed graphs being written to the `data` folder.
 
-## The Code Base
+## The Codebase
 
 All code is contained in the `src` directory.
 
